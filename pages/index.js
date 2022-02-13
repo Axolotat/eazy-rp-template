@@ -1,8 +1,8 @@
 import * as chakra from "@chakra-ui/react";
 
 import Head from 'next/head'
-import { Nav } from './components/Nav'
-import {ConfigTemplate} from "./components/ConfigTemplate";
+import { Nav } from '../components/Nav'
+import {ConfigTemplate} from "../components/ConfigTemplate";
 
 export default function Home() {
   return (
